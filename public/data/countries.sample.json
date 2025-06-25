@@ -1,0 +1,12 @@
+[
+    {
+      "code": "EG",
+      "name": "مصر",
+      "english_name": "Egypt",
+      "cities": [
+        { "ar": "القاهرة", "en": "Cairo" },
+        { "ar": "الإسكندرية", "en": "Alexandria" }
+      ]
+    }
+  ]
+  

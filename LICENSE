@@ -1,0 +1,17 @@
+MIT License
+
+Copyright (c) 2025 Mohamed Hany
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the “Software”), to use
+the Software for viewing, referencing, or interacting with the **public API**
+via the hosted website: https://arabia-api.vercel.app.
+
+You may use, modify, and distribute the source code related to the documentation
+site and API interface, but not the proprietary data behind the API.
+
+The `public/data/countries.json` file and its contents are explicitly excluded from this license.
+
+THE SOFTWARE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED.
+
+— Arabia API Hub
